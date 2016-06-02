@@ -6,7 +6,7 @@ See [Viewport Changes](https://developer.apple.com/library/ios/releasenotes/Gene
 
 ## Usage
 
-Download the minified library [no-shrink-to-fit.min.js](https://raw.githubusercontent.com/tditlu/bash/master/js/no-shrink-to-fit.min.js) and and include it on your webpage.
+Download the minified library [no-shrink-to-fit.min.js](https://github.com/tditlu/no-shrink-to-fit/blob/master/js/no-shrink-to-fit.min.js) and and include it on your webpage.
 
 ```html
 <script src="js/no-shrink-to-fit.min.js"></script>

@@ -1,9 +1,9 @@
 {
   "name": "no-shrink-to-fit",
   "title": "No Shrink to Fit",
-  "description": "Adds \"shrink-to-fit=no\" to iOS devices with Safari >= 9.0",
+  "description": "Automatically adds viewport meta attribute 'shrink-to-fit=no' to iOS devices with Safari greater than 9.0",
   "main" : "js/no-shrink-to-fit.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "tditlu/no-shrink-to-fit",
   "license": "MIT",
   "files": [

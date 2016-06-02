@@ -1,3 +1,13 @@
+/*!
+ * No Shrink to Fit v1.0.1
+ * https://github.com/tditlu/no-shrink-to-fit/
+ *
+ * Copyright (c) 2016 tditlu
+ * Released under the MIT license
+ * https://github.com/tditlu/no-shrink-to-fit/blob/master/LICENSE
+ *
+ * Date: 2016-06-02T20:46Z
+ */
 (function(window) {
 	if (!window) { return; }
 	if (!window.navigator) { return; }

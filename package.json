@@ -1,0 +1,7 @@
+{
+  "name": "no-shrink-to-fit",
+  "title": "No Shrink to Fit",
+  "description": "Adds \"shrink-to-fit=no\" to iOS devices with Safari >= 9.0",
+  "main" : "js/no-shrink-to-fit.js",
+  "version": "1.0.0"
+}
